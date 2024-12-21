@@ -1,6 +1,7 @@
 # githubproxy
 
 一个用于代理 GitHub 相关请求的轻量级服务。本项目基于 [gh-proxy](https://github.com/hunshcn/gh-proxy) 修改，采用了 Pornhub 风格的 UI 设计和黑橙配色方案，为您带来独特的视觉体验。核心功能和实现逻辑保持不变。
+![](https://cdn.jsdelivr.net/gh/bbylw/PicGo@master/20241222023638520.png)
 
 > **注意**: 如果您不喜欢 Pornhub 风格的界面，建议直接使用原作者的项目 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) 进行部署。原项目采用了更加简洁的设计风格，且具有完全相同的核心功能。
 
